@@ -1,0 +1,5 @@
+commit 180a4e59c2c0e5807ff81ca5ba1cd004adc282c8 (HEAD -> logs, origin/master, master)
+Author: Andjela <golubova.andjela@gmail.com>
+Date:   Tue Apr 16 11:29:53 2019 +0200
+
+    Initial commit
